@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LYProgressHUD_Example' do
+  pod 'LYProgressHUD', :path => '../'
+
+  target 'LYProgressHUD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
