@@ -1,0 +1,6 @@
+framework module LYProgressHUD {
+  umbrella header "LYProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

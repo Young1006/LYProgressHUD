@@ -1,0 +1,22 @@
+{
+  "name": "LYProgressHUD",
+  "version": "0.1.0",
+  "summary": "A short description of LYProgressHUD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/754515065@qq.com/LYProgressHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "754515065@qq.com": "appstore@qiyitianbao.com"
+  },
+  "source": {
+    "git": "https://github.com/754515065@qq.com/LYProgressHUD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LYProgressHUD/Classes/**/*"
+}
